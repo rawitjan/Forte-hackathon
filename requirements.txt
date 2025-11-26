@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-google-genai
+python-dotenv
+atlassian-python-api
+markdown
+watchdog
+PyPDF2
+python-docx
+xhtml2pdf
+htmldocx
+beautifulsoup4
+requests
+supabase
